@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greatest-common-divisor",
+    "name": "Greatest Common Divisor"
+  },
+  "updatedAt": "2026-09-18T06:54:55.657Z",
+  "problems": [
+    {
+      "frontendId": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "problemName": "1071-greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "folderPath": "leet/1071-greatest-common-divisor-of-strings/",
+      "readmePath": "leet/1071-greatest-common-divisor-of-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1071-greatest-common-divisor-of-strings.cpp",
+          "path": "leet/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp",
+          "sha": "eaac37eece6e5763c212800cb98b94ab27f219f3",
+          "lastSyncedAt": "2026-09-18T06:54:55.657Z"
+        }
+      ]
+    }
+  ]
+}
