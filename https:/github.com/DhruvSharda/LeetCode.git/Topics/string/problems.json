@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-18T06:37:55.664Z",
+  "problems": [
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "https:/github.com/DhruvSharda/LeetCode.git/0125-valid-palindrome/",
+      "readmePath": "https:/github.com/DhruvSharda/LeetCode.git/0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0125-valid-palindrome.cpp",
+          "path": "https:/github.com/DhruvSharda/LeetCode.git/0125-valid-palindrome/0125-valid-palindrome.cpp",
+          "sha": "a202751074cf760bd1ba35b2a1e10165da4dbc59",
+          "lastSyncedAt": "2026-09-18T06:37:55.664Z"
+        }
+      ]
+    }
+  ]
+}
