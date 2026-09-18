@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T06:39:11.861Z",
+  "updatedAt": "2026-09-18T06:39:19.813Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "https:/github.com/DhruvSharda/LeetCode.git/0258-add-digits/",
+      "readmePath": "https:/github.com/DhruvSharda/LeetCode.git/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "https:/github.com/DhruvSharda/LeetCode.git/0258-add-digits/0258-add-digits.cpp",
+          "sha": "b0f9274115d9917da2427d1b9e9f0a12b3edba1b",
+          "lastSyncedAt": "2026-09-18T06:39:19.813Z"
+        }
+      ]
+    },
     {
       "frontendId": "1281",
       "title": "Subtract the Product and Sum of Digits of an Integer",
