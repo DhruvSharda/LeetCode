@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sieve-theory",
+    "name": "Sieve Theory"
+  },
+  "updatedAt": "2026-09-18T06:54:27.004Z",
+  "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "leet/0204-count-primes/",
+      "readmePath": "leet/0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "leet/0204-count-primes/0204-count-primes.cpp",
+          "sha": "e366376baae65bd05bbc9cec91fb981bf034a177",
+          "lastSyncedAt": "2026-09-18T06:54:27.004Z"
+        }
+      ]
+    }
+  ]
+}
