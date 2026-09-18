@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-18T06:56:52.314Z",
+  "updatedAt": "2026-09-18T09:06:01.685Z",
   "problems": [
     {
       "frontendId": "7",
@@ -203,6 +203,26 @@
           "path": "leet/1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
           "sha": "3d5ab8bfefc4126b8ba2792ce6fb3fc69e93c2f2",
           "lastSyncedAt": "2026-09-18T06:54:01.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "leet/1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "leet/1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1979-find-greatest-common-divisor-of-array.cpp",
+          "path": "leet/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
+          "sha": "77d05d4b7fa2ef7b5c5e81644bb6feb40c11d16d",
+          "lastSyncedAt": "2026-09-18T09:06:01.685Z"
         }
       ]
     }
