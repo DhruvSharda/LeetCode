@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T06:55:27.629Z",
+  "updatedAt": "2026-09-18T06:56:19.663Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "leet/0001-two-sum/0001-two-sum.cpp",
           "sha": "8efe85614afe530cf507af93be692c47f091387f",
           "lastSyncedAt": "2026-09-18T06:53:41.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "leet/0004-median-of-two-sorted-arrays/",
+      "readmePath": "leet/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0004-median-of-two-sorted-arrays.cpp",
+          "path": "leet/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
+          "sha": "b699713edd3fe9370af58e99a13ef19727f1243c",
+          "lastSyncedAt": "2026-09-18T06:56:19.663Z"
         }
       ]
     },
