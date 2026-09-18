@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 15 | 4 | 1 |
+| 21 | 16 | 4 | 1 |
 
 ## Activity
 
@@ -23,41 +23,41 @@ Contains topicwise list of solved problems.
 | 2026-08-14 | 2 |
 | 2026-08-18 | 4 |
 | 2026-09-17 | 1 |
-| 2026-09-18 | 4 |
+| 2026-09-18 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 10 | 50% |
-| Array | 5 | 25% |
-| Linked List | 5 | 25% |
-| String | 5 | 25% |
-| Two Pointers | 5 | 25% |
-| Hash Table | 4 | 20% |
-| Number Theory | 2 | 10% |
+| Math | 11 | 52% |
+| Array | 6 | 29% |
+| Linked List | 5 | 24% |
+| String | 5 | 24% |
+| Two Pointers | 5 | 24% |
+| Hash Table | 4 | 19% |
+| Number Theory | 3 | 14% |
+| Euclidean Algorithm | 2 | 10% |
+| Greatest Common Divisor | 2 | 10% |
 | Binary Search | 1 | 5% |
-| Design | 1 | 5% |
-| Divide and Conquer | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
-| [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
+| [Euclidean Algorithm](Topics/euclidean-algorithm/) | 2 |
+| [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Memoization](Topics/memoization/) | 1 |
-| [Number Theory](Topics/number-theory/) | 2 |
+| [Number Theory](Topics/number-theory/) | 3 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
