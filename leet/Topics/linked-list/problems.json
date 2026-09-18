@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-18T06:56:31.292Z",
+  "updatedAt": "2026-09-18T06:56:37.802Z",
   "problems": [
     {
       "frontendId": "705",
@@ -23,6 +23,26 @@
           "path": "leet/0705-design-hashset/0705-design-hashset.cpp",
           "sha": "5d5389135f8c14e775f7d328c3c3c9191fe7f658",
           "lastSyncedAt": "2026-09-18T06:55:27.629Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "725",
+      "title": "Split Linked List in Parts",
+      "slug": "split-linked-list-in-parts",
+      "problemName": "0725-split-linked-list-in-parts",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/split-linked-list-in-parts/",
+      "folderPath": "leet/0725-split-linked-list-in-parts/",
+      "readmePath": "leet/0725-split-linked-list-in-parts/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0725-split-linked-list-in-parts.cpp",
+          "path": "leet/0725-split-linked-list-in-parts/0725-split-linked-list-in-parts.cpp",
+          "sha": "0eb725c9901779f9f3df381d723d7e8dc9fb187d",
+          "lastSyncedAt": "2026-09-18T06:56:37.802Z"
         }
       ]
     },
