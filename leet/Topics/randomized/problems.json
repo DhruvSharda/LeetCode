@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "randomized",
+    "name": "Randomized"
+  },
+  "updatedAt": "2026-09-18T06:56:52.314Z",
+  "problems": [
+    {
+      "frontendId": "382",
+      "title": "Linked List Random Node",
+      "slug": "linked-list-random-node",
+      "problemName": "0382-linked-list-random-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-random-node/",
+      "folderPath": "leet/0382-linked-list-random-node/",
+      "readmePath": "leet/0382-linked-list-random-node/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0382-linked-list-random-node.cpp",
+          "path": "leet/0382-linked-list-random-node/0382-linked-list-random-node.cpp",
+          "sha": "db59718263a36120be9ff0844a635be8062b33fe",
+          "lastSyncedAt": "2026-09-18T06:56:52.314Z"
+        }
+      ]
+    }
+  ]
+}
