@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-18T06:39:19.813Z",
+  "updatedAt": "2026-09-18T06:52:53.989Z",
   "problems": [
     {
       "frontendId": "258",
@@ -22,7 +22,7 @@
           "filename": "0258-add-digits.cpp",
           "path": "https:/github.com/DhruvSharda/LeetCode.git/0258-add-digits/0258-add-digits.cpp",
           "sha": "b0f9274115d9917da2427d1b9e9f0a12b3edba1b",
-          "lastSyncedAt": "2026-09-18T06:39:19.813Z"
+          "lastSyncedAt": "2026-09-18T06:52:53.989Z"
         }
       ]
     }
