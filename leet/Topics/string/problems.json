@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T06:54:55.657Z",
+  "updatedAt": "2026-09-18T06:55:16.803Z",
   "problems": [
     {
       "frontendId": "125",
@@ -43,6 +43,26 @@
           "path": "leet/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp",
           "sha": "eaac37eece6e5763c212800cb98b94ab27f219f3",
           "lastSyncedAt": "2026-09-18T06:54:55.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "leet/3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "leet/3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
+          "path": "leet/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
+          "sha": "5fc65794a38530b1cbb55fa891c9b4bdb5de12ce",
+          "lastSyncedAt": "2026-09-18T06:55:16.803Z"
         }
       ]
     }
