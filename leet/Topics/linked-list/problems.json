@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List"
+  },
+  "updatedAt": "2026-09-18T06:55:27.629Z",
+  "problems": [
+    {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "problemName": "0705-design-hashset",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+      "folderPath": "leet/0705-design-hashset/",
+      "readmePath": "leet/0705-design-hashset/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0705-design-hashset.cpp",
+          "path": "leet/0705-design-hashset/0705-design-hashset.cpp",
+          "sha": "5d5389135f8c14e775f7d328c3c3c9191fe7f658",
+          "lastSyncedAt": "2026-09-18T06:55:27.629Z"
+        }
+      ]
+    }
+  ]
+}
