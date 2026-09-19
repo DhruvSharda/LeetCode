@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 16 | 4 | 1 |
+| 22 | 17 | 4 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 9 |
+| 3 days | 3 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,20 +24,21 @@ Contains topicwise list of solved problems.
 | 2026-08-18 | 4 |
 | 2026-09-17 | 1 |
 | 2026-09-18 | 5 |
+| 2026-09-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 11 | 52% |
-| Array | 6 | 29% |
-| Linked List | 5 | 24% |
-| String | 5 | 24% |
-| Two Pointers | 5 | 24% |
-| Hash Table | 4 | 19% |
+| Math | 12 | 55% |
+| Array | 6 | 27% |
+| Two Pointers | 6 | 27% |
+| Hash Table | 5 | 23% |
+| Linked List | 5 | 23% |
+| String | 5 | 23% |
 | Number Theory | 3 | 14% |
-| Euclidean Algorithm | 2 | 10% |
-| Greatest Common Divisor | 2 | 10% |
+| Euclidean Algorithm | 2 | 9% |
+| Greatest Common Divisor | 2 | 9% |
 | Binary Search | 1 | 5% |
 
 ## Topics
@@ -51,11 +52,12 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 2 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
 | [Primality Test](Topics/primality-test/) | 1 |
@@ -67,5 +69,5 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [String](Topics/string/) | 5 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
