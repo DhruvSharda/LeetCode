@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-18T06:56:43.666Z",
+  "updatedAt": "2026-09-19T18:15:23.670Z",
   "problems": [
     {
       "frontendId": "125",
@@ -43,6 +43,26 @@
           "path": "leet/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "f1334fb1505c41741b447316c43cfd80c52095e0",
           "lastSyncedAt": "2026-09-18T06:56:43.666Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "leet/0202-happy-number/",
+      "readmePath": "leet/0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "leet/0202-happy-number/0202-happy-number.cpp",
+          "sha": "fc80c1fc247b226bc4857b7554c8929a8f21a4e8",
+          "lastSyncedAt": "2026-09-19T18:15:23.670Z"
         }
       ]
     },
