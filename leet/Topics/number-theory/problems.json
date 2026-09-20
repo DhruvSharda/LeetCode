@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-20T05:49:00.284Z",
+  "updatedAt": "2026-09-20T06:42:20.300Z",
   "problems": [
     {
       "frontendId": "204",
@@ -43,6 +43,26 @@
           "path": "leet/0258-add-digits/0258-add-digits.cpp",
           "sha": "b0f9274115d9917da2427d1b9e9f0a12b3edba1b",
           "lastSyncedAt": "2026-09-18T06:54:08.855Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "866",
+      "title": "Prime Palindrome",
+      "slug": "prime-palindrome",
+      "problemName": "0866-prime-palindrome",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/prime-palindrome/",
+      "folderPath": "leet/0866-prime-palindrome/",
+      "readmePath": "leet/0866-prime-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0866-prime-palindrome.cpp",
+          "path": "leet/0866-prime-palindrome/0866-prime-palindrome.cpp",
+          "sha": "f09767e737fe24d659220c6dec1a6a30ef45faa2",
+          "lastSyncedAt": "2026-09-20T06:42:20.300Z"
         }
       ]
     },
