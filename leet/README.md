@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 18 | 4 | 1 |
+| 24 | 18 | 5 | 1 |
 
 ## Activity
 
@@ -25,22 +25,22 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 1 |
 | 2026-09-18 | 5 |
 | 2026-09-19 | 1 |
-| 2026-09-20 | 1 |
+| 2026-09-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 13 | 57% |
-| Array | 6 | 26% |
-| Two Pointers | 6 | 26% |
-| Hash Table | 5 | 22% |
-| Linked List | 5 | 22% |
-| String | 5 | 22% |
-| Number Theory | 4 | 17% |
-| Enumeration | 2 | 9% |
-| Euclidean Algorithm | 2 | 9% |
-| Greatest Common Divisor | 2 | 9% |
+| Math | 14 | 58% |
+| Array | 6 | 25% |
+| Two Pointers | 6 | 25% |
+| Hash Table | 5 | 21% |
+| Linked List | 5 | 21% |
+| Number Theory | 5 | 21% |
+| String | 5 | 21% |
+| Enumeration | 2 | 8% |
+| Euclidean Algorithm | 2 | 8% |
+| Greatest Common Divisor | 2 | 8% |
 
 ## Topics
 
@@ -58,10 +58,10 @@ Contains topicwise list of solved problems.
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 13 |
+| [Math](Topics/math/) | 14 |
 | [Memoization](Topics/memoization/) | 1 |
-| [Number Theory](Topics/number-theory/) | 4 |
-| [Primality Test](Topics/primality-test/) | 1 |
+| [Number Theory](Topics/number-theory/) | 5 |
+| [Primality Test](Topics/primality-test/) | 2 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
