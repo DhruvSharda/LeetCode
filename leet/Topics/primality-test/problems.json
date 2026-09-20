@@ -4,7 +4,7 @@
     "slug": "primality-test",
     "name": "Primality Test"
   },
-  "updatedAt": "2026-09-18T06:54:27.004Z",
+  "updatedAt": "2026-09-20T06:42:20.300Z",
   "problems": [
     {
       "frontendId": "204",
@@ -23,6 +23,26 @@
           "path": "leet/0204-count-primes/0204-count-primes.cpp",
           "sha": "e366376baae65bd05bbc9cec91fb981bf034a177",
           "lastSyncedAt": "2026-09-18T06:54:27.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "866",
+      "title": "Prime Palindrome",
+      "slug": "prime-palindrome",
+      "problemName": "0866-prime-palindrome",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/prime-palindrome/",
+      "folderPath": "leet/0866-prime-palindrome/",
+      "readmePath": "leet/0866-prime-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0866-prime-palindrome.cpp",
+          "path": "leet/0866-prime-palindrome/0866-prime-palindrome.cpp",
+          "sha": "f09767e737fe24d659220c6dec1a6a30ef45faa2",
+          "lastSyncedAt": "2026-09-20T06:42:20.300Z"
         }
       ]
     }
