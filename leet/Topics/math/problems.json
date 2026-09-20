@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-20T05:49:00.284Z",
+  "updatedAt": "2026-09-20T06:42:20.300Z",
   "problems": [
     {
       "frontendId": "7",
@@ -183,6 +183,26 @@
           "path": "leet/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "49f21a40fb13c781b2081274a03a3b9d92a61cbc",
           "lastSyncedAt": "2026-09-18T06:55:44.627Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "866",
+      "title": "Prime Palindrome",
+      "slug": "prime-palindrome",
+      "problemName": "0866-prime-palindrome",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/prime-palindrome/",
+      "folderPath": "leet/0866-prime-palindrome/",
+      "readmePath": "leet/0866-prime-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0866-prime-palindrome.cpp",
+          "path": "leet/0866-prime-palindrome/0866-prime-palindrome.cpp",
+          "sha": "f09767e737fe24d659220c6dec1a6a30ef45faa2",
+          "lastSyncedAt": "2026-09-20T06:42:20.300Z"
         }
       ]
     },
