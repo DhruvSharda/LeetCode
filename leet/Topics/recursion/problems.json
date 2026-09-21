@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-18T06:55:44.627Z",
+  "updatedAt": "2026-09-21T18:21:49.414Z",
   "problems": [
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "leet/Medium/0050-powx-n/",
+      "readmePath": "leet/Medium/0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "leet/Medium/0050-powx-n/0050-powx-n.cpp",
+          "sha": "35bf9f1ec1b8e1000e42130fc75d643d96406b2b",
+          "lastSyncedAt": "2026-09-21T18:21:49.414Z"
+        }
+      ]
+    },
     {
       "frontendId": "509",
       "title": "Fibonacci Number",
