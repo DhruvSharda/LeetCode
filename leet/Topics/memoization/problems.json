@@ -4,7 +4,7 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-09-20T10:02:38.662Z",
+  "updatedAt": "2026-09-21T18:48:34.660Z",
   "problems": [
     {
       "frontendId": "70",
@@ -43,6 +43,26 @@
           "path": "leet/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "49f21a40fb13c781b2081274a03a3b9d92a61cbc",
           "lastSyncedAt": "2026-09-18T06:55:44.627Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "problemName": "1137-n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "folderPath": "leet/Easy/1137-n-th-tribonacci-number/",
+      "readmePath": "leet/Easy/1137-n-th-tribonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1137-n-th-tribonacci-number.cpp",
+          "path": "leet/Easy/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
+          "sha": "60d66bec32a51d8382b1efa669df0c1ce728aae4",
+          "lastSyncedAt": "2026-09-21T18:48:34.660Z"
         }
       ]
     }
