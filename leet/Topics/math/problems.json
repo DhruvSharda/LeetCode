@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-21T18:48:34.660Z",
+  "updatedAt": "2026-09-21T20:10:17.156Z",
   "problems": [
     {
       "frontendId": "7",
@@ -103,6 +103,26 @@
           "path": "leet/Easy/0070-climbing-stairs/0070-climbing-stairs.cpp",
           "sha": "25eda2ae1bfa7cd7fcc754966a03bb9309b7114a",
           "lastSyncedAt": "2026-09-20T10:02:38.662Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "problemName": "0172-factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "folderPath": "leet/Medium/0172-factorial-trailing-zeroes/",
+      "readmePath": "leet/Medium/0172-factorial-trailing-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0172-factorial-trailing-zeroes.cpp",
+          "path": "leet/Medium/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.cpp",
+          "sha": "1cbd2e5de332f843390c6ea0e0d37edcc3bce9a6",
+          "lastSyncedAt": "2026-09-21T20:10:17.156Z"
         }
       ]
     },
