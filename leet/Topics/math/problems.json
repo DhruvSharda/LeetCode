@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-21T20:14:42.565Z",
+  "updatedAt": "2026-09-23T12:00:29.903Z",
   "problems": [
     {
       "frontendId": "7",
@@ -123,6 +123,26 @@
           "path": "leet/Medium/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.cpp",
           "sha": "1cbd2e5de332f843390c6ea0e0d37edcc3bce9a6",
           "lastSyncedAt": "2026-09-21T20:14:42.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leet/Medium/0189-rotate-array/",
+      "readmePath": "leet/Medium/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "leet/Medium/0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "df93baa6e2800ffc44c8162cc54d0a3fd883b177",
+          "lastSyncedAt": "2026-09-23T12:00:29.903Z"
         }
       ]
     },
