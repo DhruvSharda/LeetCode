@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-18T09:06:01.685Z",
+  "updatedAt": "2026-09-23T12:00:29.903Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "leet/0066-plus-one/0066-plus-one.cpp",
           "sha": "2fda98a191b053a846bdaabe3978c4fe489b552e",
           "lastSyncedAt": "2026-09-18T06:54:20.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leet/Medium/0189-rotate-array/",
+      "readmePath": "leet/Medium/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "leet/Medium/0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "df93baa6e2800ffc44c8162cc54d0a3fd883b177",
+          "lastSyncedAt": "2026-09-23T12:00:29.903Z"
         }
       ]
     },
