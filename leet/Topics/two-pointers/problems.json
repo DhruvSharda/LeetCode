@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-19T18:16:47.036Z",
+  "updatedAt": "2026-09-23T12:00:29.903Z",
   "problems": [
     {
       "frontendId": "125",
@@ -43,6 +43,26 @@
           "path": "leet/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "f1334fb1505c41741b447316c43cfd80c52095e0",
           "lastSyncedAt": "2026-09-18T06:56:43.666Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leet/Medium/0189-rotate-array/",
+      "readmePath": "leet/Medium/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "leet/Medium/0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "df93baa6e2800ffc44c8162cc54d0a3fd883b177",
+          "lastSyncedAt": "2026-09-23T12:00:29.903Z"
         }
       ]
     },
