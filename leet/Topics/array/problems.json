@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T11:40:22.299Z",
+  "updatedAt": "2026-09-24T13:23:08.441Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "leet/0204-count-primes/0204-count-primes.cpp",
           "sha": "e366376baae65bd05bbc9cec91fb981bf034a177",
           "lastSyncedAt": "2026-09-18T06:54:27.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "leet/Easy/0414-third-maximum-number/",
+      "readmePath": "leet/Easy/0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0414-third-maximum-number.cpp",
+          "path": "leet/Easy/0414-third-maximum-number/0414-third-maximum-number.cpp",
+          "sha": "c2ba7ac4ca53da19b767479bbf363fb06cb65d84",
+          "lastSyncedAt": "2026-09-24T13:23:08.441Z"
         }
       ]
     },
