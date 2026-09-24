@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "merge-sort",
+    "name": "Merge Sort"
+  },
+  "updatedAt": "2026-09-24T11:40:22.299Z",
+  "problems": [
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "leet/Medium/0912-sort-an-array/",
+      "readmePath": "leet/Medium/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0912-sort-an-array.cpp",
+          "path": "leet/Medium/0912-sort-an-array/0912-sort-an-array.cpp",
+          "sha": "d4cf5da7eaf73f5169d3a350c6f203f2258607bd",
+          "lastSyncedAt": "2026-09-24T11:40:22.299Z"
+        }
+      ]
+    }
+  ]
+}
