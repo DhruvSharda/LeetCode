@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T13:23:08.441Z",
+  "updatedAt": "2026-09-24T13:48:32.478Z",
   "problems": [
     {
       "frontendId": "414",
@@ -22,7 +22,7 @@
           "filename": "0414-third-maximum-number.cpp",
           "path": "leet/Easy/0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "c2ba7ac4ca53da19b767479bbf363fb06cb65d84",
-          "lastSyncedAt": "2026-09-24T13:23:08.441Z"
+          "lastSyncedAt": "2026-09-24T13:48:32.478Z"
         }
       ]
     },
