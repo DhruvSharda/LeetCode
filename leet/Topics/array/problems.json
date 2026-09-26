@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T16:11:04.157Z",
+  "updatedAt": "2026-09-26T18:22:49.148Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "leet/Medium/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "d4cf5da7eaf73f5169d3a350c6f203f2258607bd",
           "lastSyncedAt": "2026-09-24T11:40:22.299Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "problemName": "1752-check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folderPath": "leet/Easy/1752-check-if-array-is-sorted-and-rotated/",
+      "readmePath": "leet/Easy/1752-check-if-array-is-sorted-and-rotated/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1752-check-if-array-is-sorted-and-rotated.cpp",
+          "path": "leet/Easy/1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
+          "sha": "0aef35b1a8065d770d24eabc0ce5604a5373f74e",
+          "lastSyncedAt": "2026-09-26T18:22:49.148Z"
         }
       ]
     },
