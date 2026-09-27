@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-27T06:14:52.942Z",
+  "updatedAt": "2026-09-27T12:23:02.147Z",
   "problems": [
     {
       "frontendId": "26",
@@ -23,6 +23,26 @@
           "path": "leet/Easy/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "feac4d47bbdbbc014fd8c5cb3d20507395e4f69e",
           "lastSyncedAt": "2026-09-27T06:14:52.942Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "problemName": "0080-remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+      "folderPath": "leet/Medium/0080-remove-duplicates-from-sorted-array-ii/",
+      "readmePath": "leet/Medium/0080-remove-duplicates-from-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0080-remove-duplicates-from-sorted-array-ii.cpp",
+          "path": "leet/Medium/0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.cpp",
+          "sha": "bad654f60f5705d011c3d7fa3c2fe395039dcb29",
+          "lastSyncedAt": "2026-09-27T12:23:02.147Z"
         }
       ]
     },
