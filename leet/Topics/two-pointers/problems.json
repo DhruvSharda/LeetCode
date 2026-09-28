@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-27T12:23:02.147Z",
+  "updatedAt": "2026-09-28T12:57:40.342Z",
   "problems": [
     {
       "frontendId": "26",
@@ -123,6 +123,26 @@
           "path": "leet/0202-happy-number/0202-happy-number.cpp",
           "sha": "fc80c1fc247b226bc4857b7554c8929a8f21a4e8",
           "lastSyncedAt": "2026-09-19T18:16:47.036Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "leet/Easy/0283-move-zeroes/",
+      "readmePath": "leet/Easy/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0283-move-zeroes.cpp",
+          "path": "leet/Easy/0283-move-zeroes/0283-move-zeroes.cpp",
+          "sha": "1d83f21fbdbb7f9f3de70539e898e4868e963231",
+          "lastSyncedAt": "2026-09-28T12:57:40.342Z"
         }
       ]
     },
