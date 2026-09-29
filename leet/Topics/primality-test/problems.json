@@ -4,7 +4,7 @@
     "slug": "primality-test",
     "name": "Primality Test"
   },
-  "updatedAt": "2026-09-29T10:42:04.422Z",
+  "updatedAt": "2026-09-29T10:43:03.866Z",
   "problems": [
     {
       "frontendId": "204",
@@ -22,7 +22,7 @@
           "filename": "0204-count-primes.cpp",
           "path": "leet/0204-count-primes/0204-count-primes.cpp",
           "sha": "e366376baae65bd05bbc9cec91fb981bf034a177",
-          "lastSyncedAt": "2026-09-29T10:16:12.503Z"
+          "lastSyncedAt": "2026-09-29T10:43:03.866Z"
         }
       ]
     },
