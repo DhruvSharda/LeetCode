@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T10:18:25.600Z",
+  "updatedAt": "2026-09-29T10:18:35.373Z",
   "problems": [
     {
       "frontendId": "2",
@@ -142,7 +142,7 @@
           "filename": "0206-reverse-linked-list.cpp",
           "path": "leet/Easy/0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "021f3811a9aa0a247d292a2db01588ca50d3d8f8",
-          "lastSyncedAt": "2026-09-29T07:00:51.644Z"
+          "lastSyncedAt": "2026-09-29T10:18:35.373Z"
         }
       ]
     },
