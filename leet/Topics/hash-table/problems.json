@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T07:00:22.391Z",
+  "updatedAt": "2026-09-29T07:00:59.040Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "leet/0001-two-sum/0001-two-sum.cpp",
           "sha": "8efe85614afe530cf507af93be692c47f091387f",
           "lastSyncedAt": "2026-09-29T06:57:09.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "leet/Easy/0141-linked-list-cycle/",
+      "readmePath": "leet/Easy/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "leet/Easy/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "5b09ac90923ff1b36ce8b32054c0ce0022873d8e",
+          "lastSyncedAt": "2026-09-29T07:00:59.040Z"
         }
       ]
     },
