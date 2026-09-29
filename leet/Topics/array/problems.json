@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T10:13:15.244Z",
+  "updatedAt": "2026-09-29T10:13:23.643Z",
   "problems": [
     {
       "frontendId": "1",
@@ -202,7 +202,7 @@
           "filename": "0283-move-zeroes.cpp",
           "path": "leet/Easy/0283-move-zeroes/0283-move-zeroes.cpp",
           "sha": "1d83f21fbdbb7f9f3de70539e898e4868e963231",
-          "lastSyncedAt": "2026-09-29T06:54:37.988Z"
+          "lastSyncedAt": "2026-09-29T10:13:23.643Z"
         }
       ]
     },
