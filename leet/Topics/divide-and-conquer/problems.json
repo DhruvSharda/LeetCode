@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-29T10:17:25.154Z",
+  "updatedAt": "2026-09-29T10:41:03.697Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0215-kth-largest-element-in-an-array.cpp",
           "path": "leet/Medium/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "0706b235e61e92e46fcd5bd818a7d6eac45da399",
-          "lastSyncedAt": "2026-09-29T10:13:50.917Z"
+          "lastSyncedAt": "2026-09-29T10:41:03.697Z"
         }
       ]
     },
