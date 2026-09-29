@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T10:41:59.052Z",
+  "updatedAt": "2026-09-29T10:42:04.422Z",
   "problems": [
     {
       "frontendId": "2",
@@ -322,7 +322,7 @@
           "filename": "0866-prime-palindrome.cpp",
           "path": "leet/0866-prime-palindrome/0866-prime-palindrome.cpp",
           "sha": "f09767e737fe24d659220c6dec1a6a30ef45faa2",
-          "lastSyncedAt": "2026-09-29T10:15:05.602Z"
+          "lastSyncedAt": "2026-09-29T10:42:04.422Z"
         }
       ]
     },
