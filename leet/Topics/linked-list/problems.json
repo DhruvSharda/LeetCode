@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T10:17:32.293Z",
+  "updatedAt": "2026-09-29T10:17:36.574Z",
   "problems": [
     {
       "frontendId": "2",
@@ -262,7 +262,7 @@
           "filename": "0725-split-linked-list-in-parts.cpp",
           "path": "leet/0725-split-linked-list-in-parts/0725-split-linked-list-in-parts.cpp",
           "sha": "0eb725c9901779f9f3df381d723d7e8dc9fb187d",
-          "lastSyncedAt": "2026-09-29T06:59:28.641Z"
+          "lastSyncedAt": "2026-09-29T10:17:36.574Z"
         }
       ]
     },
