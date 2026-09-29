@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T06:56:07.396Z",
+  "updatedAt": "2026-09-29T06:57:16.601Z",
   "problems": [
     {
       "frontendId": "125",
@@ -13,8 +13,8 @@
       "problemName": "0125-valid-palindrome",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
-      "folderPath": "leet/0125-valid-palindrome/",
-      "readmePath": "leet/0125-valid-palindrome/README.md",
+      "folderPath": "leet/Easy/0125-valid-palindrome/",
+      "readmePath": "leet/Easy/0125-valid-palindrome/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -22,7 +22,7 @@
           "filename": "0125-valid-palindrome.cpp",
           "path": "leet/0125-valid-palindrome/0125-valid-palindrome.cpp",
           "sha": "a202751074cf760bd1ba35b2a1e10165da4dbc59",
-          "lastSyncedAt": "2026-09-18T06:53:50.952Z"
+          "lastSyncedAt": "2026-09-29T06:57:16.601Z"
         }
       ]
     },
