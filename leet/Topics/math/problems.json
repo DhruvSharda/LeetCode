@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T10:16:59.600Z",
+  "updatedAt": "2026-09-29T10:17:22.473Z",
   "problems": [
     {
       "frontendId": "2",
@@ -42,7 +42,7 @@
           "filename": "0007-reverse-integer.cpp",
           "path": "leet/0007-reverse-integer/0007-reverse-integer.cpp",
           "sha": "e240dc0f24e450e1c0de1b9818ebb5303474c912",
-          "lastSyncedAt": "2026-09-29T06:59:08.408Z"
+          "lastSyncedAt": "2026-09-29T10:17:22.473Z"
         }
       ]
     },
