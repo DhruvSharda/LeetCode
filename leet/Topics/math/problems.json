@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:35:34.710Z",
+  "updatedAt": "2026-09-29T06:55:33.980Z",
   "problems": [
     {
       "frontendId": "7",
@@ -402,7 +402,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "path": "leet/Easy/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "5601a97b8f527931742ede6198cf133843cda33b",
-          "lastSyncedAt": "2026-09-29T06:35:22.859Z"
+          "lastSyncedAt": "2026-09-29T06:55:33.980Z"
         }
       ]
     }
