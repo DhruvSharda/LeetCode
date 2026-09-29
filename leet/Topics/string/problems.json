@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T10:16:40.162Z",
+  "updatedAt": "2026-09-29T10:17:09.729Z",
   "problems": [
     {
       "frontendId": "125",
@@ -62,7 +62,7 @@
           "filename": "0541-reverse-string-ii.cpp",
           "path": "leet/0541-reverse-string-ii/0541-reverse-string-ii.cpp",
           "sha": "e894aa59ebefa5332cf1cc5cbc76f12662173afa",
-          "lastSyncedAt": "2026-09-29T06:58:56.077Z"
+          "lastSyncedAt": "2026-09-29T10:17:09.729Z"
         }
       ]
     },
