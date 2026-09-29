@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T10:18:38.984Z",
+  "updatedAt": "2026-09-29T10:18:45.869Z",
   "problems": [
     {
       "frontendId": "2",
@@ -22,7 +22,7 @@
           "filename": "0002-add-two-numbers.cpp",
           "path": "leet/Medium/0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "da1bcfd32563a51fc167d9ae253800cacaaa2ea0",
-          "lastSyncedAt": "2026-09-29T07:01:09.734Z"
+          "lastSyncedAt": "2026-09-29T10:18:45.869Z"
         }
       ]
     },
