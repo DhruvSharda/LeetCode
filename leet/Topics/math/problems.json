@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:58:45.323Z",
+  "updatedAt": "2026-09-29T06:59:08.408Z",
   "problems": [
     {
       "frontendId": "7",
@@ -13,8 +13,8 @@
       "problemName": "0007-reverse-integer",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
-      "folderPath": "leet/0007-reverse-integer/",
-      "readmePath": "leet/0007-reverse-integer/README.md",
+      "folderPath": "leet/Medium/0007-reverse-integer/",
+      "readmePath": "leet/Medium/0007-reverse-integer/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -22,7 +22,7 @@
           "filename": "0007-reverse-integer.cpp",
           "path": "leet/0007-reverse-integer/0007-reverse-integer.cpp",
           "sha": "e240dc0f24e450e1c0de1b9818ebb5303474c912",
-          "lastSyncedAt": "2026-09-18T06:56:14.279Z"
+          "lastSyncedAt": "2026-09-29T06:59:08.408Z"
         }
       ]
     },
