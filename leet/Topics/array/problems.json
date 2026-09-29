@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T10:40:49.651Z",
+  "updatedAt": "2026-09-29T10:40:54.068Z",
   "problems": [
     {
       "frontendId": "1",
@@ -62,7 +62,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.cpp",
           "path": "leet/Easy/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "feac4d47bbdbbc014fd8c5cb3d20507395e4f69e",
-          "lastSyncedAt": "2026-09-29T10:13:35.811Z"
+          "lastSyncedAt": "2026-09-29T10:40:54.068Z"
         }
       ]
     },
