@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T06:54:26.729Z",
+  "updatedAt": "2026-09-29T06:54:30.667Z",
   "problems": [
     {
       "frontendId": "1",
@@ -282,7 +282,7 @@
           "filename": "0905-sort-array-by-parity.cpp",
           "path": "leet/Easy/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
           "sha": "91a913ebf682ae03a91ab3523488d2b5d3e8b1db",
-          "lastSyncedAt": "2026-09-29T06:34:25.489Z"
+          "lastSyncedAt": "2026-09-29T06:54:30.667Z"
         }
       ]
     },
