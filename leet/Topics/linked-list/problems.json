@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T10:18:20.646Z",
+  "updatedAt": "2026-09-29T10:18:25.600Z",
   "problems": [
     {
       "frontendId": "2",
@@ -162,7 +162,7 @@
           "filename": "0234-palindrome-linked-list.cpp",
           "path": "leet/Easy/0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
           "sha": "72b630b73858764173f7743b3d0ca86ef8148c0c",
-          "lastSyncedAt": "2026-09-29T07:00:39.196Z"
+          "lastSyncedAt": "2026-09-29T10:18:25.600Z"
         }
       ]
     },
