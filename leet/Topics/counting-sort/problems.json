@@ -4,7 +4,7 @@
     "slug": "counting-sort",
     "name": "Counting Sort"
   },
-  "updatedAt": "2026-09-29T06:35:06.041Z",
+  "updatedAt": "2026-09-29T06:55:16.175Z",
   "problems": [
     {
       "frontendId": "912",
@@ -22,7 +22,7 @@
           "filename": "0912-sort-an-array.cpp",
           "path": "leet/Medium/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "d4cf5da7eaf73f5169d3a350c6f203f2258607bd",
-          "lastSyncedAt": "2026-09-29T06:35:06.041Z"
+          "lastSyncedAt": "2026-09-29T06:55:16.175Z"
         }
       ]
     }
