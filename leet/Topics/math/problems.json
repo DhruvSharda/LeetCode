@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:55:41.025Z",
+  "updatedAt": "2026-09-29T06:55:49.884Z",
   "problems": [
     {
       "frontendId": "7",
@@ -122,7 +122,7 @@
           "filename": "0172-factorial-trailing-zeroes.cpp",
           "path": "leet/Medium/0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.cpp",
           "sha": "1cbd2e5de332f843390c6ea0e0d37edcc3bce9a6",
-          "lastSyncedAt": "2026-09-29T06:35:34.710Z"
+          "lastSyncedAt": "2026-09-29T06:55:49.884Z"
         }
       ]
     },
