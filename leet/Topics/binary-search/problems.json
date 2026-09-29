@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T10:40:05.060Z",
+  "updatedAt": "2026-09-29T10:40:26.024Z",
   "problems": [
     {
       "frontendId": "4",
@@ -62,7 +62,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "leet/Easy/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "61cb45f2b9c410b7a4d93f1b76bf2565fc85d34b",
-          "lastSyncedAt": "2026-09-29T10:12:58.025Z"
+          "lastSyncedAt": "2026-09-29T10:40:26.024Z"
         }
       ]
     },
