@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-18T06:56:19.663Z",
+  "updatedAt": "2026-09-29T06:54:04.097Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,6 +23,26 @@
           "path": "leet/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "b699713edd3fe9370af58e99a13ef19727f1243c",
           "lastSyncedAt": "2026-09-18T06:56:19.663Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leet/Easy/0704-binary-search/",
+      "readmePath": "leet/Easy/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0704-binary-search.cpp",
+          "path": "leet/Easy/0704-binary-search/0704-binary-search.cpp",
+          "sha": "4bdd7edfc230c9d4bb2238be0e32c84c0117b0db",
+          "lastSyncedAt": "2026-09-29T06:54:04.097Z"
         }
       ]
     }
