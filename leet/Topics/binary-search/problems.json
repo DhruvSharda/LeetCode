@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T10:13:09.260Z",
+  "updatedAt": "2026-09-29T10:17:25.154Z",
   "problems": [
     {
       "frontendId": "4",
@@ -22,7 +22,7 @@
           "filename": "0004-median-of-two-sorted-arrays.cpp",
           "path": "leet/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "b699713edd3fe9370af58e99a13ef19727f1243c",
-          "lastSyncedAt": "2026-09-29T06:59:12.676Z"
+          "lastSyncedAt": "2026-09-29T10:17:25.154Z"
         }
       ]
     },
