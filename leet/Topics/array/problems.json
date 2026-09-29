@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T06:54:47.664Z",
+  "updatedAt": "2026-09-29T06:54:52.498Z",
   "problems": [
     {
       "frontendId": "1",
@@ -262,7 +262,7 @@
           "filename": "0896-monotonic-array.cpp",
           "path": "leet/Easy/0896-monotonic-array/0896-monotonic-array.cpp",
           "sha": "50a1a89ab3f7eb41b720697345f496736b2510d1",
-          "lastSyncedAt": "2026-09-29T06:34:44.816Z"
+          "lastSyncedAt": "2026-09-29T06:54:52.498Z"
         }
       ]
     },
