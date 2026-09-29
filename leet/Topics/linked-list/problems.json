@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T07:00:06.202Z",
+  "updatedAt": "2026-09-29T07:00:17.053Z",
   "problems": [
+    {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "problemName": "0092-reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "folderPath": "leet/Medium/0092-reverse-linked-list-ii/",
+      "readmePath": "leet/Medium/0092-reverse-linked-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0092-reverse-linked-list-ii.cpp",
+          "path": "leet/Medium/0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.cpp",
+          "sha": "39db46183c8c42ff1c87b3477c92d3a000d0a953",
+          "lastSyncedAt": "2026-09-29T07:00:17.053Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
