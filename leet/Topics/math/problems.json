@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:56:56.087Z",
+  "updatedAt": "2026-09-29T06:57:24.217Z",
   "problems": [
     {
       "frontendId": "7",
@@ -333,8 +333,8 @@
       "problemName": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
-      "folderPath": "leet/1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
-      "readmePath": "leet/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
+      "folderPath": "leet/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "readmePath": "leet/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -342,7 +342,7 @@
           "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
           "path": "leet/1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
           "sha": "3d5ab8bfefc4126b8ba2792ce6fb3fc69e93c2f2",
-          "lastSyncedAt": "2026-09-18T06:54:01.580Z"
+          "lastSyncedAt": "2026-09-29T06:57:24.217Z"
         }
       ]
     },
