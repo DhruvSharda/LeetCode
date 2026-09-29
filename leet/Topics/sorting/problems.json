@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-29T09:16:49.894Z",
+  "updatedAt": "2026-09-29T10:12:51.297Z",
   "problems": [
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leet/Easy/0088-merge-sorted-array/",
+      "readmePath": "leet/Easy/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0088-merge-sorted-array.cpp",
+          "path": "leet/Easy/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
+          "sha": "55a494a28d3e9c9e02ca1d26eefee059fd6df83d",
+          "lastSyncedAt": "2026-09-29T10:12:51.297Z"
+        }
+      ]
+    },
     {
       "frontendId": "215",
       "title": "Kth Largest Element in an Array",
