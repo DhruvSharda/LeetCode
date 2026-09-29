@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T10:14:59.797Z",
+  "updatedAt": "2026-09-29T10:16:59.600Z",
   "problems": [
     {
       "frontendId": "70",
@@ -42,7 +42,7 @@
           "filename": "0509-fibonacci-number.cpp",
           "path": "leet/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "49f21a40fb13c781b2081274a03a3b9d92a61cbc",
-          "lastSyncedAt": "2026-09-29T06:58:45.323Z"
+          "lastSyncedAt": "2026-09-29T10:16:59.600Z"
         }
       ]
     },
