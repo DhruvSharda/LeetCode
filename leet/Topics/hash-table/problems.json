@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T07:00:06.202Z",
+  "updatedAt": "2026-09-29T07:00:22.391Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "leet/0705-design-hashset/0705-design-hashset.cpp",
           "sha": "5d5389135f8c14e775f7d328c3c3c9191fe7f658",
           "lastSyncedAt": "2026-09-29T06:58:29.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "817",
+      "title": "Linked List Components",
+      "slug": "linked-list-components",
+      "problemName": "0817-linked-list-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-components/",
+      "folderPath": "leet/Medium/0817-linked-list-components/",
+      "readmePath": "leet/Medium/0817-linked-list-components/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0817-linked-list-components.cpp",
+          "path": "leet/Medium/0817-linked-list-components/0817-linked-list-components.cpp",
+          "sha": "313b619f1ea51e1c092c2d087a2ac39fc87a6582",
+          "lastSyncedAt": "2026-09-29T07:00:22.391Z"
         }
       ]
     },
