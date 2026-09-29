@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T10:16:59.600Z",
+  "updatedAt": "2026-09-29T10:41:47.833Z",
   "problems": [
     {
       "frontendId": "70",
@@ -62,7 +62,7 @@
           "filename": "1137-n-th-tribonacci-number.cpp",
           "path": "leet/Easy/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
           "sha": "60d66bec32a51d8382b1efa669df0c1ce728aae4",
-          "lastSyncedAt": "2026-09-29T10:14:46.436Z"
+          "lastSyncedAt": "2026-09-29T10:41:47.833Z"
         }
       ]
     }
