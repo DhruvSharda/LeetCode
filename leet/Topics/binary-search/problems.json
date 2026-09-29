@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T06:59:12.676Z",
+  "updatedAt": "2026-09-29T09:16:49.894Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,6 +23,26 @@
           "path": "leet/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "b699713edd3fe9370af58e99a13ef19727f1243c",
           "lastSyncedAt": "2026-09-29T06:59:12.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leet/Easy/0349-intersection-of-two-arrays/",
+      "readmePath": "leet/Easy/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "leet/Easy/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "61cb45f2b9c410b7a4d93f1b76bf2565fc85d34b",
+          "lastSyncedAt": "2026-09-29T09:16:49.894Z"
         }
       ]
     },
