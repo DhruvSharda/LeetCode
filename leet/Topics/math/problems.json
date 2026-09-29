@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:58:01.419Z",
+  "updatedAt": "2026-09-29T06:58:05.901Z",
   "problems": [
     {
       "frontendId": "7",
@@ -293,8 +293,8 @@
       "problemName": "1071-greatest-common-divisor-of-strings",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
-      "folderPath": "leet/1071-greatest-common-divisor-of-strings/",
-      "readmePath": "leet/1071-greatest-common-divisor-of-strings/README.md",
+      "folderPath": "leet/Easy/1071-greatest-common-divisor-of-strings/",
+      "readmePath": "leet/Easy/1071-greatest-common-divisor-of-strings/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -302,7 +302,7 @@
           "filename": "1071-greatest-common-divisor-of-strings.cpp",
           "path": "leet/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp",
           "sha": "eaac37eece6e5763c212800cb98b94ab27f219f3",
-          "lastSyncedAt": "2026-09-18T06:54:55.657Z"
+          "lastSyncedAt": "2026-09-29T06:58:05.901Z"
         }
       ]
     },
