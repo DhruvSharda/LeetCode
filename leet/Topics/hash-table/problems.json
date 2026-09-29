@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T10:15:47.984Z",
+  "updatedAt": "2026-09-29T10:16:40.162Z",
   "problems": [
     {
       "frontendId": "1",
@@ -182,7 +182,7 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
           "path": "leet/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "5fc65794a38530b1cbb55fa891c9b4bdb5de12ce",
-          "lastSyncedAt": "2026-09-29T06:58:20.138Z"
+          "lastSyncedAt": "2026-09-29T10:16:40.162Z"
         }
       ]
     }
