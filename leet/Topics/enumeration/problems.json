@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-20T05:49:00.284Z",
+  "updatedAt": "2026-09-29T06:56:27.916Z",
   "problems": [
     {
       "frontendId": "204",
@@ -33,8 +33,8 @@
       "problemName": "1952-three-divisors",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
-      "folderPath": "leet/1952-three-divisors/",
-      "readmePath": "leet/1952-three-divisors/README.md",
+      "folderPath": "leet/Easy/1952-three-divisors/",
+      "readmePath": "leet/Easy/1952-three-divisors/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -42,7 +42,7 @@
           "filename": "1952-three-divisors.cpp",
           "path": "leet/1952-three-divisors/1952-three-divisors.cpp",
           "sha": "767be9b016595e9243b174b66d6bee0bfe65c5df",
-          "lastSyncedAt": "2026-09-20T05:49:00.284Z"
+          "lastSyncedAt": "2026-09-29T06:56:27.916Z"
         }
       ]
     }
