@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T10:17:39.729Z",
+  "updatedAt": "2026-09-29T10:17:45.456Z",
   "problems": [
     {
       "frontendId": "2",
@@ -202,7 +202,7 @@
           "filename": "0382-linked-list-random-node.cpp",
           "path": "leet/0382-linked-list-random-node/0382-linked-list-random-node.cpp",
           "sha": "db59718263a36120be9ff0844a635be8062b33fe",
-          "lastSyncedAt": "2026-09-29T06:59:40.244Z"
+          "lastSyncedAt": "2026-09-29T10:17:45.456Z"
         }
       ]
     },
