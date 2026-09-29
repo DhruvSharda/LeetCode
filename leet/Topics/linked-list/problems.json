@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T06:59:58.711Z",
+  "updatedAt": "2026-09-29T07:00:06.202Z",
   "problems": [
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "leet/Medium/0142-linked-list-cycle-ii/",
+      "readmePath": "leet/Medium/0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0142-linked-list-cycle-ii.cpp",
+          "path": "leet/Medium/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
+          "sha": "fccfac99d04dbda3a7bb7aa16ff369586a84e317",
+          "lastSyncedAt": "2026-09-29T07:00:06.202Z"
+        }
+      ]
+    },
     {
       "frontendId": "160",
       "title": "Intersection of Two Linked Lists",
