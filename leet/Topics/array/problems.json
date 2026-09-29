@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T10:39:13.968Z",
+  "updatedAt": "2026-09-29T10:40:05.060Z",
   "problems": [
     {
       "frontendId": "1",
@@ -202,7 +202,7 @@
           "filename": "0268-missing-number.cpp",
           "path": "leet/Easy/0268-missing-number/0268-missing-number.cpp",
           "sha": "ef2896c60aa49be0bb9bec440a7a347f40c996ef",
-          "lastSyncedAt": "2026-09-29T10:39:13.968Z"
+          "lastSyncedAt": "2026-09-29T10:40:05.060Z"
         }
       ]
     },
