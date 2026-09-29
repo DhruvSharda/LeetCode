@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T07:00:22.391Z",
+  "updatedAt": "2026-09-29T09:16:49.894Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "leet/Easy/0283-move-zeroes/0283-move-zeroes.cpp",
           "sha": "1d83f21fbdbb7f9f3de70539e898e4868e963231",
           "lastSyncedAt": "2026-09-29T06:54:37.988Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leet/Easy/0349-intersection-of-two-arrays/",
+      "readmePath": "leet/Easy/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "leet/Easy/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "61cb45f2b9c410b7a4d93f1b76bf2565fc85d34b",
+          "lastSyncedAt": "2026-09-29T09:16:49.894Z"
         }
       ]
     },
