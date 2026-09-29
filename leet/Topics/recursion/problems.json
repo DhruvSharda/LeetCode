@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-29T06:58:45.323Z",
+  "updatedAt": "2026-09-29T06:59:58.711Z",
   "problems": [
     {
       "frontendId": "50",
@@ -23,6 +23,26 @@
           "path": "leet/Medium/0050-powx-n/0050-powx-n.cpp",
           "sha": "35bf9f1ec1b8e1000e42130fc75d643d96406b2b",
           "lastSyncedAt": "2026-09-29T06:56:03.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "leet/Easy/0203-remove-linked-list-elements/",
+      "readmePath": "leet/Easy/0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0203-remove-linked-list-elements.cpp",
+          "path": "leet/Easy/0203-remove-linked-list-elements/0203-remove-linked-list-elements.cpp",
+          "sha": "cb2e6f7a1283dbfcf5fd8a42cb64b7f96961e5da",
+          "lastSyncedAt": "2026-09-29T06:59:58.711Z"
         }
       ]
     },
