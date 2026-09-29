@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T10:13:50.917Z",
+  "updatedAt": "2026-09-29T10:14:05.264Z",
   "problems": [
     {
       "frontendId": "1",
@@ -242,7 +242,7 @@
           "filename": "0414-third-maximum-number.cpp",
           "path": "leet/Easy/0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "c2ba7ac4ca53da19b767479bbf363fb06cb65d84",
-          "lastSyncedAt": "2026-09-29T06:55:11.638Z"
+          "lastSyncedAt": "2026-09-29T10:14:05.264Z"
         }
       ]
     },
