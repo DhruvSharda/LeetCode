@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T10:40:26.024Z",
+  "updatedAt": "2026-09-29T10:40:35.330Z",
   "problems": [
     {
       "frontendId": "4",
@@ -82,7 +82,7 @@
           "filename": "0704-binary-search.cpp",
           "path": "leet/Easy/0704-binary-search/0704-binary-search.cpp",
           "sha": "4bdd7edfc230c9d4bb2238be0e32c84c0117b0db",
-          "lastSyncedAt": "2026-09-29T10:13:09.260Z"
+          "lastSyncedAt": "2026-09-29T10:40:35.330Z"
         }
       ]
     }
