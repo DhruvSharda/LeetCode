@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T10:18:14.229Z",
+  "updatedAt": "2026-09-29T10:18:20.646Z",
   "problems": [
     {
       "frontendId": "2",
@@ -242,7 +242,7 @@
           "filename": "0707-design-linked-list.cpp",
           "path": "leet/Medium/0707-design-linked-list/0707-design-linked-list.cpp",
           "sha": "0c9c883bb032cb2f880213fc3712b2b915d34975",
-          "lastSyncedAt": "2026-09-29T07:00:31.710Z"
+          "lastSyncedAt": "2026-09-29T10:18:20.646Z"
         }
       ]
     },
