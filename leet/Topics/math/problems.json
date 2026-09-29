@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T10:16:12.503Z",
+  "updatedAt": "2026-09-29T10:16:26.134Z",
   "problems": [
     {
       "frontendId": "2",
@@ -262,7 +262,7 @@
           "filename": "0507-perfect-number.cpp",
           "path": "leet/0507-perfect-number/0507-perfect-number.cpp",
           "sha": "29ae09076f5b00045352ed0d48ea7da01835be6b",
-          "lastSyncedAt": "2026-09-29T06:58:01.419Z"
+          "lastSyncedAt": "2026-09-29T10:16:26.134Z"
         }
       ]
     },
