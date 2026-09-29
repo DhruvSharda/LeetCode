@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-29T10:40:05.060Z",
+  "updatedAt": "2026-09-29T10:51:03.096Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "leet/Easy/0136-single-number/",
+      "readmePath": "leet/Easy/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0136-single-number.cpp",
+          "path": "leet/Easy/0136-single-number/0136-single-number.cpp",
+          "sha": "9bfeb876a86c0392848108a3d011a85015e69e2d",
+          "lastSyncedAt": "2026-09-29T10:51:03.096Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
