@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T10:43:03.866Z",
+  "updatedAt": "2026-09-29T10:43:39.606Z",
   "problems": [
     {
       "frontendId": "1",
@@ -302,7 +302,7 @@
           "filename": "0705-design-hashset.cpp",
           "path": "leet/0705-design-hashset/0705-design-hashset.cpp",
           "sha": "5d5389135f8c14e775f7d328c3c3c9191fe7f658",
-          "lastSyncedAt": "2026-09-29T10:16:47.138Z"
+          "lastSyncedAt": "2026-09-29T10:43:39.606Z"
         }
       ]
     },
