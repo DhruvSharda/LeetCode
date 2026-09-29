@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-29T06:58:56.077Z",
+  "updatedAt": "2026-09-29T06:59:02.771Z",
   "problems": [
     {
       "frontendId": "26",
@@ -153,8 +153,8 @@
       "problemName": "0344-reverse-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
-      "folderPath": "leet/0344-reverse-string/",
-      "readmePath": "leet/0344-reverse-string/README.md",
+      "folderPath": "leet/Easy/0344-reverse-string/",
+      "readmePath": "leet/Easy/0344-reverse-string/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -162,7 +162,7 @@
           "filename": "0344-reverse-string.cpp",
           "path": "leet/0344-reverse-string/0344-reverse-string.cpp",
           "sha": "fb84b8d0a6451fb9bd2f4e5f2286a803888bdb3a",
-          "lastSyncedAt": "2026-09-18T06:56:07.396Z"
+          "lastSyncedAt": "2026-09-29T06:59:02.771Z"
         }
       ]
     },
