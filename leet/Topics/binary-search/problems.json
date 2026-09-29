@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T06:54:26.729Z",
+  "updatedAt": "2026-09-29T06:59:12.676Z",
   "problems": [
     {
       "frontendId": "4",
@@ -13,8 +13,8 @@
       "problemName": "0004-median-of-two-sorted-arrays",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-      "folderPath": "leet/0004-median-of-two-sorted-arrays/",
-      "readmePath": "leet/0004-median-of-two-sorted-arrays/README.md",
+      "folderPath": "leet/Hard/0004-median-of-two-sorted-arrays/",
+      "readmePath": "leet/Hard/0004-median-of-two-sorted-arrays/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -22,7 +22,7 @@
           "filename": "0004-median-of-two-sorted-arrays.cpp",
           "path": "leet/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "b699713edd3fe9370af58e99a13ef19727f1243c",
-          "lastSyncedAt": "2026-09-18T06:56:19.663Z"
+          "lastSyncedAt": "2026-09-29T06:59:12.676Z"
         }
       ]
     },
