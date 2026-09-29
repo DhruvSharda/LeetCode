@@ -4,7 +4,7 @@
     "slug": "euclidean-algorithm",
     "name": "Euclidean Algorithm"
   },
-  "updatedAt": "2026-09-29T10:16:28.949Z",
+  "updatedAt": "2026-09-29T10:42:28.824Z",
   "problems": [
     {
       "frontendId": "1071",
@@ -42,7 +42,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.cpp",
           "path": "leet/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "77d05d4b7fa2ef7b5c5e81644bb6feb40c11d16d",
-          "lastSyncedAt": "2026-09-29T10:15:35.647Z"
+          "lastSyncedAt": "2026-09-29T10:42:28.824Z"
         }
       ]
     }
