@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-29T10:15:05.602Z",
+  "updatedAt": "2026-09-29T10:15:12.881Z",
   "problems": [
     {
       "frontendId": "204",
@@ -82,7 +82,7 @@
           "filename": "1952-three-divisors.cpp",
           "path": "leet/1952-three-divisors/1952-three-divisors.cpp",
           "sha": "767be9b016595e9243b174b66d6bee0bfe65c5df",
-          "lastSyncedAt": "2026-09-29T06:56:27.916Z"
+          "lastSyncedAt": "2026-09-29T10:15:12.881Z"
         }
       ]
     },
