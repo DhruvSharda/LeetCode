@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T10:17:39.729Z",
+  "updatedAt": "2026-09-29T10:18:03.637Z",
   "problems": [
     {
       "frontendId": "1",
@@ -62,7 +62,7 @@
           "filename": "0142-linked-list-cycle-ii.cpp",
           "path": "leet/Medium/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "fccfac99d04dbda3a7bb7aa16ff369586a84e317",
-          "lastSyncedAt": "2026-09-29T07:00:06.202Z"
+          "lastSyncedAt": "2026-09-29T10:18:03.637Z"
         }
       ]
     },
