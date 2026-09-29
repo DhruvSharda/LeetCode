@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T06:35:27.647Z",
+  "updatedAt": "2026-09-29T06:54:04.097Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "leet/Easy/0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "c2ba7ac4ca53da19b767479bbf363fb06cb65d84",
           "lastSyncedAt": "2026-09-29T06:35:02.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leet/Easy/0704-binary-search/",
+      "readmePath": "leet/Easy/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0704-binary-search.cpp",
+          "path": "leet/Easy/0704-binary-search/0704-binary-search.cpp",
+          "sha": "4bdd7edfc230c9d4bb2238be0e32c84c0117b0db",
+          "lastSyncedAt": "2026-09-29T06:54:04.097Z"
         }
       ]
     },
