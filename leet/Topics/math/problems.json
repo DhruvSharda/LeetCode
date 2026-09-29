@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T10:15:25.581Z",
+  "updatedAt": "2026-09-29T10:15:35.647Z",
   "problems": [
     {
       "frontendId": "2",
@@ -402,7 +402,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.cpp",
           "path": "leet/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "77d05d4b7fa2ef7b5c5e81644bb6feb40c11d16d",
-          "lastSyncedAt": "2026-09-29T06:56:56.087Z"
+          "lastSyncedAt": "2026-09-29T10:15:35.647Z"
         }
       ]
     },
