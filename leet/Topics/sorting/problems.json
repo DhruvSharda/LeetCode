@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-25T16:11:04.157Z",
+  "updatedAt": "2026-09-29T06:31:04.459Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,6 +43,26 @@
           "path": "leet/Easy/0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "c2ba7ac4ca53da19b767479bbf363fb06cb65d84",
           "lastSyncedAt": "2026-09-24T13:48:32.478Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "leet/Easy/0905-sort-array-by-parity/",
+      "readmePath": "leet/Easy/0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0905-sort-array-by-parity.cpp",
+          "path": "leet/Easy/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
+          "sha": "91a913ebf682ae03a91ab3523488d2b5d3e8b1db",
+          "lastSyncedAt": "2026-09-29T06:31:04.459Z"
         }
       ]
     },
