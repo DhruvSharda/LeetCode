@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-29T06:59:58.711Z",
+  "updatedAt": "2026-09-29T07:00:39.196Z",
   "problems": [
     {
       "frontendId": "50",
@@ -43,6 +43,26 @@
           "path": "leet/Easy/0203-remove-linked-list-elements/0203-remove-linked-list-elements.cpp",
           "sha": "cb2e6f7a1283dbfcf5fd8a42cb64b7f96961e5da",
           "lastSyncedAt": "2026-09-29T06:59:58.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "leet/Easy/0234-palindrome-linked-list/",
+      "readmePath": "leet/Easy/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "leet/Easy/0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "72b630b73858764173f7743b3d0ca86ef8148c0c",
+          "lastSyncedAt": "2026-09-29T07:00:39.196Z"
         }
       ]
     },
