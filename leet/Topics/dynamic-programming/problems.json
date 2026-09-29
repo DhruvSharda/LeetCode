@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T10:14:46.436Z",
+  "updatedAt": "2026-09-29T10:14:59.797Z",
   "problems": [
     {
       "frontendId": "70",
@@ -22,7 +22,7 @@
           "filename": "0070-climbing-stairs.cpp",
           "path": "leet/Easy/0070-climbing-stairs/0070-climbing-stairs.cpp",
           "sha": "25eda2ae1bfa7cd7fcc754966a03bb9309b7114a",
-          "lastSyncedAt": "2026-09-29T06:56:09.949Z"
+          "lastSyncedAt": "2026-09-29T10:14:59.797Z"
         }
       ]
     },
