@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-29T06:57:44.140Z",
+  "updatedAt": "2026-09-29T10:15:05.602Z",
   "problems": [
     {
       "frontendId": "204",
@@ -62,7 +62,7 @@
           "filename": "0866-prime-palindrome.cpp",
           "path": "leet/0866-prime-palindrome/0866-prime-palindrome.cpp",
           "sha": "f09767e737fe24d659220c6dec1a6a30ef45faa2",
-          "lastSyncedAt": "2026-09-29T06:56:17.913Z"
+          "lastSyncedAt": "2026-09-29T10:15:05.602Z"
         }
       ]
     },
