@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:59:40.244Z",
+  "updatedAt": "2026-09-29T07:01:09.734Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "leet/Medium/0002-add-two-numbers/",
+      "readmePath": "leet/Medium/0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0002-add-two-numbers.cpp",
+          "path": "leet/Medium/0002-add-two-numbers/0002-add-two-numbers.cpp",
+          "sha": "da1bcfd32563a51fc167d9ae253800cacaaa2ea0",
+          "lastSyncedAt": "2026-09-29T07:01:09.734Z"
+        }
+      ]
+    },
     {
       "frontendId": "7",
       "title": "Reverse Integer",
