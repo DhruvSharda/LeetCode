@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-29T06:55:16.175Z",
+  "updatedAt": "2026-09-29T09:16:49.894Z",
   "problems": [
     {
       "frontendId": "215",
@@ -23,6 +23,26 @@
           "path": "leet/Medium/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "0706b235e61e92e46fcd5bd818a7d6eac45da399",
           "lastSyncedAt": "2026-09-29T06:54:59.843Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leet/Easy/0349-intersection-of-two-arrays/",
+      "readmePath": "leet/Easy/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "leet/Easy/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "61cb45f2b9c410b7a4d93f1b76bf2565fc85d34b",
+          "lastSyncedAt": "2026-09-29T09:16:49.894Z"
         }
       ]
     },
