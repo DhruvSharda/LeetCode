@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-29T10:12:51.297Z",
+  "updatedAt": "2026-09-29T10:12:58.025Z",
   "problems": [
     {
       "frontendId": "26",
@@ -262,7 +262,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "leet/Easy/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "61cb45f2b9c410b7a4d93f1b76bf2565fc85d34b",
-          "lastSyncedAt": "2026-09-29T09:16:49.894Z"
+          "lastSyncedAt": "2026-09-29T10:12:58.025Z"
         }
       ]
     },
