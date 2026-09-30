@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-29T10:51:03.096Z",
+  "updatedAt": "2026-09-30T06:21:50.618Z",
   "problems": [
     {
       "frontendId": "136",
@@ -23,6 +23,26 @@
           "path": "leet/Easy/0136-single-number/0136-single-number.cpp",
           "sha": "9bfeb876a86c0392848108a3d011a85015e69e2d",
           "lastSyncedAt": "2026-09-29T10:51:03.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "problemName": "0260-single-number-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+      "folderPath": "leet/Medium/0260-single-number-iii/",
+      "readmePath": "leet/Medium/0260-single-number-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0260-single-number-iii.cpp",
+          "path": "leet/Medium/0260-single-number-iii/0260-single-number-iii.cpp",
+          "sha": "81938187e9a321dbe013103813a25b1eb9ae2e4b",
+          "lastSyncedAt": "2026-09-30T06:21:50.618Z"
         }
       ]
     },
