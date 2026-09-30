@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 35 | 17 | 1 |
+| 54 | 35 | 18 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 23 |
+| 14 days | 14 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-18 | 4 |
 | 2026-09-17 | 1 |
 | 2026-09-18 | 4 |
 | 2026-09-19 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 3 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 5 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 42% |
-| Math | 21 | 40% |
+| Array | 23 | 43% |
+| Math | 21 | 39% |
 | Two Pointers | 16 | 30% |
 | Linked List | 15 | 28% |
 | Hash Table | 9 | 17% |
@@ -49,9 +49,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Design](Topics/design/) | 2 |
