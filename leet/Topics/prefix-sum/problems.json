@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-10-01T14:49:31.258Z",
+  "problems": [
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "leet/Medium/0209-minimum-size-subarray-sum/",
+      "readmePath": "leet/Medium/0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0209-minimum-size-subarray-sum.cpp",
+          "path": "leet/Medium/0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.cpp",
+          "sha": "fa88d34836b730cfba3abaff0a8217e93ea9bb90",
+          "lastSyncedAt": "2026-10-01T14:49:31.258Z"
+        }
+      ]
+    }
+  ]
+}
