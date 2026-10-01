@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 35 | 18 | 1 |
+| 55 | 35 | 19 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 24 |
+| 15 days | 15 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-17 | 1 |
 | 2026-09-18 | 4 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 3 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 1 |
 | 2026-09-29 | 5 |
 | 2026-09-30 | 1 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 43% |
-| Math | 21 | 39% |
-| Two Pointers | 16 | 30% |
-| Linked List | 15 | 28% |
-| Hash Table | 9 | 17% |
+| Array | 24 | 44% |
+| Math | 21 | 38% |
+| Two Pointers | 16 | 29% |
+| Linked List | 15 | 27% |
+| Hash Table | 9 | 16% |
 | Recursion | 6 | 11% |
 | Sorting | 6 | 11% |
 | Number Theory | 5 | 9% |
 | String | 5 | 9% |
-| Binary Search | 3 | 6% |
+| Binary Search | 4 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Array](Topics/array/) | 25 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -69,6 +69,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Primality Test](Topics/primality-test/) | 2 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
@@ -79,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Reservoir Sampling](Topics/reservoir-sampling/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 5 |
