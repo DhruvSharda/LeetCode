@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 35 | 19 | 1 |
+| 56 | 35 | 20 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 25 |
+| 16 days | 16 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 4 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 3 |
 | 2026-09-21 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 5 |
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
+| 2026-10-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 44% |
+| Array | 25 | 45% |
 | Math | 21 | 38% |
 | Two Pointers | 16 | 29% |
 | Linked List | 15 | 27% |
-| Hash Table | 9 | 16% |
+| Hash Table | 10 | 18% |
 | Recursion | 6 | 11% |
 | Sorting | 6 | 11% |
 | Number Theory | 5 | 9% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -62,14 +62,14 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 15 |
 | [Math](Topics/math/) | 22 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Primality Test](Topics/primality-test/) | 2 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
