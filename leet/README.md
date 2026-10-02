@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 35 | 20 | 1 |
+| 57 | 35 | 21 | 1 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 5 |
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
-| 2026-10-02 | 1 |
+| 2026-10-02 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 45% |
-| Math | 21 | 38% |
-| Two Pointers | 16 | 29% |
-| Linked List | 15 | 27% |
+| Array | 26 | 46% |
+| Math | 21 | 37% |
+| Two Pointers | 17 | 30% |
+| Linked List | 15 | 26% |
 | Hash Table | 10 | 18% |
 | Recursion | 6 | 11% |
 | Sorting | 6 | 11% |
+| Binary Search | 5 | 9% |
 | Number Theory | 5 | 9% |
 | String | 5 | 9% |
-| Binary Search | 4 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Array](Topics/array/) | 27 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -84,5 +84,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 5 |
-| [Two Pointers](Topics/two-pointers/) | 16 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 <!---LeetHub Summary End-->
