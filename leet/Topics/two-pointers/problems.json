@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-02T09:21:42.427Z",
+  "updatedAt": "2026-10-02T09:32:20.845Z",
   "problems": [
     {
       "frontendId": "26",
@@ -23,6 +23,26 @@
           "path": "leet/Easy/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "feac4d47bbdbbc014fd8c5cb3d20507395e4f69e",
           "lastSyncedAt": "2026-09-29T10:40:54.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "leet/Medium/0075-sort-colors/",
+      "readmePath": "leet/Medium/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0075-sort-colors.cpp",
+          "path": "leet/Medium/0075-sort-colors/0075-sort-colors.cpp",
+          "sha": "04f04d1ca723644391afc88896408625399f4138",
+          "lastSyncedAt": "2026-10-02T09:32:20.845Z"
         }
       ]
     },
