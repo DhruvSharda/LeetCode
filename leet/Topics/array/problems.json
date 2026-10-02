@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-01T14:49:31.258Z",
+  "updatedAt": "2026-10-02T07:12:08.046Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,6 +323,26 @@
           "path": "leet/Easy/0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "c2ba7ac4ca53da19b767479bbf363fb06cb65d84",
           "lastSyncedAt": "2026-09-29T10:41:13.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "leet/Medium/0525-contiguous-array/",
+      "readmePath": "leet/Medium/0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0525-contiguous-array.cpp",
+          "path": "leet/Medium/0525-contiguous-array/0525-contiguous-array.cpp",
+          "sha": "ff8c8e73aee8843812823d0d0d9cac260d57a206",
+          "lastSyncedAt": "2026-10-02T07:12:08.046Z"
         }
       ]
     },
