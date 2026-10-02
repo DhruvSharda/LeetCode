@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T09:32:20.845Z",
+  "updatedAt": "2026-10-02T09:41:57.878Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "leet/Medium/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "9a6761c54af9321f3fd1f768dac8d4d59b0b17b1",
           "lastSyncedAt": "2026-10-02T09:21:42.427Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leet/Easy/0169-majority-element/",
+      "readmePath": "leet/Easy/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "leet/Easy/0169-majority-element/0169-majority-element.cpp",
+          "sha": "34c5cfa0a1b024ecdd6010a3651e6f60c2c58339",
+          "lastSyncedAt": "2026-10-02T09:41:57.878Z"
         }
       ]
     },
