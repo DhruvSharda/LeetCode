@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 36 | 21 | 1 |
+| 59 | 36 | 22 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 16 days | 16 days | 26 |
+| 17 days | 17 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-19 | 1 |
 | 2026-09-20 | 3 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 2 |
@@ -29,32 +28,33 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-02 | 3 |
+| 2026-10-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 47% |
+| Array | 28 | 47% |
 | Math | 21 | 36% |
 | Two Pointers | 17 | 29% |
-| Linked List | 15 | 26% |
-| Hash Table | 11 | 19% |
-| Sorting | 7 | 12% |
+| Linked List | 15 | 25% |
+| Hash Table | 12 | 20% |
+| Sorting | 8 | 14% |
 | Recursion | 6 | 10% |
-| Binary Search | 5 | 9% |
-| Number Theory | 5 | 9% |
-| String | 5 | 9% |
+| Binary Search | 5 | 8% |
+| Number Theory | 5 | 8% |
+| String | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 30 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
-| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 15 |
 | [Math](Topics/math/) | 22 |
@@ -83,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 18 |
