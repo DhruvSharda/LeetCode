@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 36 | 22 | 1 |
+| 60 | 36 | 23 | 1 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-02 | 3 |
-| 2026-10-03 | 1 |
+| 2026-10-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 47% |
-| Math | 21 | 36% |
-| Two Pointers | 17 | 29% |
+| Array | 29 | 48% |
+| Math | 21 | 35% |
+| Two Pointers | 17 | 28% |
 | Linked List | 15 | 25% |
 | Hash Table | 12 | 20% |
-| Sorting | 8 | 14% |
+| Sorting | 8 | 13% |
 | Recursion | 6 | 10% |
 | Binary Search | 5 | 8% |
+| Divide and Conquer | 5 | 8% |
 | Number Theory | 5 | 8% |
-| String | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
@@ -57,8 +57,8 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Design](Topics/design/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
