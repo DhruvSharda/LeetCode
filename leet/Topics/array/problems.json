@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T17:22:17.172Z",
+  "updatedAt": "2026-10-03T17:23:58.628Z",
   "problems": [
     {
       "frontendId": "1",
@@ -302,7 +302,7 @@
           "filename": "0229-majority-element-ii.cpp",
           "path": "leet/Medium/0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "6a3e11159146a56acef4527fec94d8d28d2da816",
-          "lastSyncedAt": "2026-10-03T17:22:17.172Z"
+          "lastSyncedAt": "2026-10-03T17:23:58.628Z"
         }
       ]
     },
