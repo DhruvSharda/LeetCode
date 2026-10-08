@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-05T18:07:08.297Z",
+  "updatedAt": "2026-10-08T16:11:04.634Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +64,26 @@
           "path": "leet/Easy/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "feac4d47bbdbbc014fd8c5cb3d20507395e4f69e",
           "lastSyncedAt": "2026-09-29T10:40:54.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "leet/Medium/0031-next-permutation/",
+      "readmePath": "leet/Medium/0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0031-next-permutation.cpp",
+          "path": "leet/Medium/0031-next-permutation/0031-next-permutation.cpp",
+          "sha": "0a931e79eb72d20e33316cb59ca1c2f386c9d0bb",
+          "lastSyncedAt": "2026-10-08T16:11:04.634Z"
         }
       ]
     },
