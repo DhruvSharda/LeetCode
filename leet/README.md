@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 36 | 23 | 1 |
+| 62 | 36 | 25 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 17 days | 17 days | 27 |
+| 1 days | 18 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 3 |
-| 2026-09-21 | 1 |
 | 2026-09-22 | 2 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 3 |
@@ -29,27 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 1 |
 | 2026-10-02 | 3 |
 | 2026-10-03 | 2 |
+| 2026-10-04 | 1 |
+| 2026-10-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 48% |
-| Math | 21 | 35% |
-| Two Pointers | 17 | 28% |
-| Linked List | 15 | 25% |
-| Hash Table | 12 | 20% |
+| Array | 31 | 50% |
+| Math | 21 | 34% |
+| Two Pointers | 18 | 29% |
+| Linked List | 15 | 24% |
+| Hash Table | 12 | 19% |
 | Sorting | 8 | 13% |
 | Recursion | 6 | 10% |
 | Binary Search | 5 | 8% |
 | Divide and Conquer | 5 | 8% |
-| Number Theory | 5 | 8% |
+| Dynamic Programming | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 34 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
@@ -86,5 +86,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 5 |
-| [Two Pointers](Topics/two-pointers/) | 18 |
+| [Two Pointers](Topics/two-pointers/) | 19 |
 <!---LeetHub Summary End-->
