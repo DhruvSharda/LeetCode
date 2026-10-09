@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T16:11:04.634Z",
+  "updatedAt": "2026-10-09T18:08:12.269Z",
   "problems": [
     {
       "frontendId": "1",
@@ -624,6 +624,26 @@
           "path": "leet/Medium/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "d4cf5da7eaf73f5169d3a350c6f203f2258607bd",
           "lastSyncedAt": "2026-09-29T10:41:18.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1299",
+      "title": "Replace Elements with Greatest Element on Right Side",
+      "slug": "replace-elements-with-greatest-element-on-right-side",
+      "problemName": "1299-replace-elements-with-greatest-element-on-right-side",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
+      "folderPath": "leet/Easy/1299-replace-elements-with-greatest-element-on-right-side/",
+      "readmePath": "leet/Easy/1299-replace-elements-with-greatest-element-on-right-side/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1299-replace-elements-with-greatest-element-on-right-side.cpp",
+          "path": "leet/Easy/1299-replace-elements-with-greatest-element-on-right-side/1299-replace-elements-with-greatest-element-on-right-side.cpp",
+          "sha": "7f6cc1018db47500c89444ad21b37ad5e8530a4c",
+          "lastSyncedAt": "2026-10-09T18:08:12.269Z"
         }
       ]
     },
