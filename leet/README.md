@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 36 | 25 | 1 |
+| 63 | 37 | 25 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 18 days | 29 |
+| 2 days | 18 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 2 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 3 |
 | 2026-09-25 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-08 | 1 |
+| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 50% |
-| Math | 21 | 34% |
+| Array | 32 | 51% |
+| Math | 21 | 33% |
 | Two Pointers | 18 | 29% |
 | Linked List | 15 | 24% |
 | Hash Table | 12 | 19% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
