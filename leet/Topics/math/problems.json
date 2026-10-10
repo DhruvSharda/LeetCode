@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-09-29T10:43:30.154Z",
+  "updatedAt": "2026-10-10T17:43:05.701Z",
   "problems": [
     {
       "frontendId": "2",
@@ -42,7 +43,7 @@
           "filename": "0007-reverse-integer.cpp",
           "path": "leet/0007-reverse-integer/0007-reverse-integer.cpp",
           "sha": "e240dc0f24e450e1c0de1b9818ebb5303474c912",
-          "lastSyncedAt": "2026-09-29T10:17:22.473Z"
+          "lastSyncedAt": "2026-10-10T17:43:05.701Z"
         }
       ]
     },
