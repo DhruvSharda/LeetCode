@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "union-find",
+    "name": "Union-Find",
+    "tagId": "23"
+  },
+  "updatedAt": "2026-10-11T08:50:15.258Z",
+  "problems": [
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "leet/Medium/0128-longest-consecutive-sequence/",
+      "readmePath": "leet/Medium/0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0128-longest-consecutive-sequence.cpp",
+          "path": "leet/Medium/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
+          "sha": "bae8d14534ce96aa16e8e0b749314bfb76456734",
+          "lastSyncedAt": "2026-10-11T08:50:15.258Z"
+        }
+      ]
+    }
+  ]
+}
