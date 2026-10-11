@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T18:08:12.269Z",
+  "updatedAt": "2026-10-11T08:50:15.258Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "leet/Easy/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
           "sha": "7dd333caa02858cbe910462f383b8b3f0418db4c",
           "lastSyncedAt": "2026-10-05T18:07:08.297Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "leet/Medium/0128-longest-consecutive-sequence/",
+      "readmePath": "leet/Medium/0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0128-longest-consecutive-sequence.cpp",
+          "path": "leet/Medium/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
+          "sha": "bae8d14534ce96aa16e8e0b749314bfb76456734",
+          "lastSyncedAt": "2026-10-11T08:50:15.258Z"
         }
       ]
     },
