@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-03T17:22:17.172Z",
+  "updatedAt": "2026-10-13T18:16:00.669Z",
   "problems": [
     {
       "frontendId": "88",
@@ -63,6 +64,26 @@
           "path": "leet/Medium/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "0706b235e61e92e46fcd5bd818a7d6eac45da399",
           "lastSyncedAt": "2026-09-29T10:41:03.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "leet/Easy/0217-contains-duplicate/",
+      "readmePath": "leet/Easy/0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "leet/Easy/0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "697c574ebf115e0e4f3f54ae6fd59a2df82656ac",
+          "lastSyncedAt": "2026-10-13T18:16:00.669Z"
         }
       ]
     },
