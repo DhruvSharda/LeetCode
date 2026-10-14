@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 37 | 26 | 1 |
+| 66 | 38 | 27 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 18 days | 31 |
+| 1 days | 18 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-24 | 3 |
-| 2026-09-25 | 1 |
 | 2026-09-26 | 1 |
 | 2026-09-27 | 3 |
 | 2026-09-28 | 1 |
@@ -29,17 +27,19 @@ Contains topicwise list of solved problems.
 | 2026-10-08 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-11 | 1 |
+| 2026-10-13 | 1 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 52% |
-| Math | 21 | 33% |
-| Two Pointers | 18 | 28% |
+| Array | 35 | 53% |
+| Math | 21 | 32% |
+| Two Pointers | 18 | 27% |
+| Hash Table | 15 | 23% |
 | Linked List | 15 | 23% |
-| Hash Table | 13 | 20% |
-| Sorting | 8 | 13% |
+| Sorting | 9 | 14% |
 | Recursion | 6 | 9% |
 | Binary Search | 5 | 8% |
 | Divide and Conquer | 5 | 8% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 38 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
@@ -64,10 +64,11 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 15 |
 | [Math](Topics/math/) | 22 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
@@ -83,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 19 |
