@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T18:16:00.669Z",
+  "updatedAt": "2026-10-14T19:04:28.636Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "leet/0066-plus-one/0066-plus-one.cpp",
           "sha": "2fda98a191b053a846bdaabe3978c4fe489b552e",
           "lastSyncedAt": "2026-09-29T10:42:58.281Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "leet/Medium/0073-set-matrix-zeroes/",
+      "readmePath": "leet/Medium/0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0073-set-matrix-zeroes.cpp",
+          "path": "leet/Medium/0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
+          "sha": "4726bab46431ad0f8564c85f844f8bd7f69d4d50",
+          "lastSyncedAt": "2026-10-14T19:04:28.636Z"
         }
       ]
     },
