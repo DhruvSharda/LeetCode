@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T17:43:05.701Z",
+  "updatedAt": "2026-10-15T19:08:08.106Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "leet/0009-palindrome-number/0009-palindrome-number.cpp",
           "sha": "176a21e5c988d01aaa0c269c1920c0397fe4a95c",
           "lastSyncedAt": "2026-09-29T10:43:30.154Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "leet/Medium/0048-rotate-image/",
+      "readmePath": "leet/Medium/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "leet/Medium/0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "454d3e35c8a2a84d443ca92df92e85c404cb2d12",
+          "lastSyncedAt": "2026-10-15T19:08:08.106Z"
         }
       ]
     },
