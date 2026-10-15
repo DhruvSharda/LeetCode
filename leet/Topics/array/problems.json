@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T19:04:28.636Z",
+  "updatedAt": "2026-10-15T19:08:08.106Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "leet/Medium/0031-next-permutation/0031-next-permutation.cpp",
           "sha": "0a931e79eb72d20e33316cb59ca1c2f386c9d0bb",
           "lastSyncedAt": "2026-10-08T16:11:04.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "leet/Medium/0048-rotate-image/",
+      "readmePath": "leet/Medium/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "leet/Medium/0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "454d3e35c8a2a84d443ca92df92e85c404cb2d12",
+          "lastSyncedAt": "2026-10-15T19:08:08.106Z"
         }
       ]
     },
